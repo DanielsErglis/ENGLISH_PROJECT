@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>GET READY TO YOUR EXAM</title>
+	<style>
+		body {
+			background-color: #9fffef;
+		}
+		
+		h1 {
+            vertical-align: baseline;
+			text-align: center;
+			padding-top: 20%;
+			margin-bottom: 0;
+		}
+	</style>
+</head>
+<body>
+	<h1 style="color:#113562">GET READY TO YOUR EXAM</h1>
+</body>
+</html>
