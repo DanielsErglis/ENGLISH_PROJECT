@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GET READY TO YOUR EXAM</title>
+    <style>
+        body {
+            background-color: #9fffef;
+        }
+
+css
+
+    h1 {
+        vertical-align: baseline;
+        text-align: center;
+        padding-top: 20%;
+        margin-bottom: 0;
+    }
+
+    .container {
+        display: flex;
+        justify-content: space-between;
+        margin: 20px;
+    }
+
+    .column {
+        flex-basis: 30%;
+        padding: 10px;
+        background-color: white;
+    }
+</style>
+
+</head>
+<body>
+    <h1 style="color:#113562">GET READY TO YOUR EXAM</h1>
+
+php
+
+<div class="container">
+    <div class="column">
+        <h2>Column 1</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </div>
+    <div class="column">
+        <h2>Column 2</h2>
+        <p>Nulla facilisi. Donec dapibus odio ut metus hendrerit, at varius neque tristique.</p>
+    </div>
+    <div class="column">
+        <h2>Column 3</h2>
+        <p>Integer in ligula eget ligula ullamcorper efficitur eu non nibh.</p>
+    </div>
+</div>
+
+</body>
+</html>
